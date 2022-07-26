@@ -2,9 +2,8 @@
 <svg version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 750 630.5" style="enable-background:new 0 0 750 630.5;" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient gradientUnits="userSpaceOnUse" x1="374.91" y1="157.233" x2="374.91" y2="630.3" id="gradient-2" gradientTransform="matrix(0.955331, 0, 0, 0.955331, 16.747034, 10.661453)">
-      <stop offset="0" style="stop-color: rgb(112, 169, 108);"/>
-      <stop offset="0.516" style="stop-color: rgb(200, 171, 127);"/>
-      <stop offset="1" style="stop-color: rgb(211, 74, 115);"/>
+      <stop offset="0" style="stop-color: rgb(97, 238, 87);"/>
+      <stop offset="1" style="stop-color: rgb(255, 59, 118);"/>
     </linearGradient>
   </defs>
   <style type="text/css">
